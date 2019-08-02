@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="action_settings">Settings</string>
+    <string name="save_menu">SAVE</string>
+</resources>
